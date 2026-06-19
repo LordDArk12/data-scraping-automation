@@ -1,0 +1,6 @@
+data-scraping-automation/
+├── scraper.py           # Основной ETL-скрипт
+├── run_scraper.sh       # Bash-оркестратор с проверкой зависимостей
+├── requirements.txt     # Python-зависимости
+├── output/              # Результаты (CSV + Excel)
+└── README.md
